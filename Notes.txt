@@ -1,5 +1,23 @@
 Notes for Football Data
 
+Files are in the "Football Data" folder, with naming as follows:
+
+E0(1) - 2024/2025 season
+E0(2) - 2023/2024 season
+E0(3) - 2022/2023 season
+.
+.
+.
+.
+.
+.
+.
+.
+E0(24) - 2001/2002 season
+E0(25) - 2000/2001 season
+
+In total 25 files, not all files have the same number of columns
+
 All data is in csv format, ready for use within standard spreadsheet applications. Please note that some abbreviations are no longer in use (in particular odds from specific bookmakers no longer used) and refer to data collected in earlier seasons. For a current list of what bookmakers are included in the dataset please visit http://www.football-data.co.uk/matches.php
 
 Key to results data:
